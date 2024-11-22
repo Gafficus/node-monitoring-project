@@ -12,5 +12,8 @@
     "server"
   ],
   "author": "gaff",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
